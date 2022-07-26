@@ -1,0 +1,38 @@
+.container-register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+}
+
+.register_image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100vh;
+    background-image: url('../../assets/RegisterImage.svg');
+    background-size: cover;
+}
+
+.register_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100vh;
+}
+
+.register_title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 12px;
+}
+
+.register_click-here {
+    text-decoration: none;
+    color: rgba(25, 114, 168, 1)
+}

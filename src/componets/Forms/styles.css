@@ -1,0 +1,21 @@
+.form-login {
+    all: unset;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+
+
+    background: #FDFAFA;
+}
+
+.form-edit-contact {
+    all: unset;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+
+    background: #FDFAFA;
+    border: 1px solid #E8E8E8;
+}

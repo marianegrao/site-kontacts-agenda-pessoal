@@ -1,0 +1,19 @@
+.btn-close {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+}
+
+.modal-subtitle {
+    margin-top: 21px;
+    margin-bottom: 31px;
+}
+
+.modal-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}

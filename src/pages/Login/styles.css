@@ -1,0 +1,47 @@
+.container-login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login_image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100vh;
+    background-image: url('../../assets/LoginImage.svg');
+    background-size: cover;
+}
+
+.login_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100vh;
+}
+
+.login_titles {
+    width: 44.0rem;
+    margin-bottom: 2rem;
+}
+
+.login_subtitle {
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+}
+
+.login_title {
+    font-weight: 700;
+    font-size: 3.2rem;
+    line-height: 3.8rem;
+}
+
+.login_click-here {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgba(25, 114, 168, 1)
+}

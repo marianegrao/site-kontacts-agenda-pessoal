@@ -1,0 +1,53 @@
+.contacts {
+    display: flex;
+    align-items: center;
+    width: 956px;
+    height: 46px;
+    padding: 0px 32px;
+}
+
+.collumn-names {
+    flex-wrap: wrap;
+    gap: 208px;
+    background-color: #F4F0F0;
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+.names_title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #1C1414;
+}
+
+.collumn-infos {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFFAFA;
+}
+
+.infos_data {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+}
+
+.data-type {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(28, 20, 20, 0.79);
+}
+
+.collumn-infos h5 {
+    width: 170px;
+}
+
+.contacts_icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}

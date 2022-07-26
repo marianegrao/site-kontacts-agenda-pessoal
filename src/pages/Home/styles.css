@@ -1,0 +1,8 @@
+.home_main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  height: calc(100vh - 174px);
+  margin-top: 104px;
+}
