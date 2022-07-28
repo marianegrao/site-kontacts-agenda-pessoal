@@ -20,6 +20,7 @@ Projeto baseado no arquivo figma disponivel nesse [link](https://www.figma.com/f
 - Axios 
 - JSX e CSS
 - Context API
+- MUI
 
 ### Como executar:
 ```cmd
